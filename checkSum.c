@@ -46,6 +46,7 @@ int Sum(int x, int y)
         return 1;
     }
 }
+//Generate  Code
 void generateCode(int arr1[] , int arr2[] , int data[] , int n)
 {
     int l = n*3 ;
