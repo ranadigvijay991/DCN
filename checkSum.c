@@ -93,7 +93,7 @@ void compliment(int arr1[] , int arr2[] , int data[] , int n)
 
     generateCode(arr1 , arr2 , data , n) ;
 }
-
+//Dividing
 void divison(int msg[] , int n)
 {
     int l = n/2 , i = 0 ;
